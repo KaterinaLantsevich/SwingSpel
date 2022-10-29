@@ -6,7 +6,8 @@
 - topic two
 
 **THIS IS VERY IMPORTANT**
-*Recursive
+
+*Recursive*
 ``` java
 System.out.println("hello world");
 ```
